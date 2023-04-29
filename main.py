@@ -59,7 +59,6 @@ selected = option_menu(None, ["Home","Upload & Extract","Modify"],
                                "container" : {"max-width": "6000px", "padding": "10px", "border-radius": "5px"},
                                "nav-link-selected": {"background-color": "#AB63FA", "color": "white"}})
 
-# Rest of your code...
 
 
 # INITIALIZING THE EasyOCR READER
